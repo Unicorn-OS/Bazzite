@@ -1,4 +1,4 @@
-# Bazzite
+# Bazzite SteamOS
 Home: https://github.com/ublue-os/bazzite
 
 article:
