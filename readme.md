@@ -1,7 +1,7 @@
 # Bazzite SteamOS
 Home:
 - source: https://github.com/ublue-os/bazzite
-- site: https://universal-blue.org
+- site: https://universal-blue.org/images/bazzite/
 
 blog:
 https://universal-blue.org/blog/2023/08/20/bazzite-10/
